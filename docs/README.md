@@ -26,7 +26,7 @@
     ```
     > 请将图灵机器人API_KEY传入docker
 - 扫码登录
-<img src="./images/iwechat_login.png" width=400 />
+<img src="https://github.com/geekeren/iWechat/blob/master/docs/images/iwechat_login.png" width=400 />
 
 ## 怎样自定义机器人处理代码？
 
