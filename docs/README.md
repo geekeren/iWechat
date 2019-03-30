@@ -2,6 +2,8 @@
 [![Dockerhub](https://img.shields.io/docker/cloud/automated/iwechat/robot.svg)](https://hub.docker.com/r/iwechat/robot/)
 [![Dockerhub](https://img.shields.io/docker/cloud/build/iwechat/robot.svg)](https://hub.docker.com/r/iwechat/robot/)
 [![Gitter](https://img.shields.io/gitter/room/iWechatBot/community.svg)](https://gitter.im/iWechatBot/community)
+[![License](https://img.shields.io/github/license/geekeren/iWechat.svg)](https://choosealicense.com/licenses/apache-2.0/)
+
 
 **iWechat微信机器人**实现了wxpy的Docker化，方便使用Docker实现微信机器人的一键启动。同时实现了一下功能：
 
