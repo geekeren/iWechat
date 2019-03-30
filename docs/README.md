@@ -26,8 +26,7 @@
     ```
     > 请将图灵机器人API_KEY传入docker
 - 扫码登录
-
-    ![扫码登录](./images/iwechat_login.png)
+<img src="./images/iwechat_login.png" width=400 />
 
 ## 怎样自定义机器人处理代码？
 
@@ -63,6 +62,3 @@ embed()
 - wxpy: https://wxpy.readthedocs.io
 - 图灵机器人官网：http://www.turingapi.com/
 - 图灵机器人API文档： https://www.kancloud.cn/turing/www-tuling123-com/718218
-
-
-
