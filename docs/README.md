@@ -1,4 +1,5 @@
 # iWechat 微信机器人
+[![Dockerhub](https://img.shields.io/github/release/geekeren/iWechat.svg)](https://github.com/geekeren/iWechat/releases)
 [![Dockerhub](https://img.shields.io/docker/cloud/automated/iwechat/robot.svg)](https://hub.docker.com/r/iwechat/robot/)
 [![Dockerhub](https://img.shields.io/docker/cloud/build/iwechat/robot.svg)](https://hub.docker.com/r/iwechat/robot/)
 [![Gitter](https://img.shields.io/gitter/room/iWechatBot/community.svg)](https://gitter.im/iWechatBot/community)
