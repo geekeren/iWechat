@@ -30,7 +30,7 @@
 > 请将图灵机器人API_KEY传入docker
 
 ### 扫码登录
-![在控制台中扫码登录](https://github.com/geekeren/iWechat/blob/master/docs/images/iwechat_login.png)
+![在控制台中扫码登录](./images/iwechat_login.png)
 
 ## 怎样自定义机器人处理代码？
 
