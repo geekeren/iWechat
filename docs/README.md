@@ -18,17 +18,19 @@
 
 ## 启动机器人
 
-- 安装Docker依赖
-- 运行：
+## 安装Docker软件
+
+### 运行：
 
 
-    ```bash
+```bash
     docker run -it -e Tuling_API_KEY={图灵机器人API_KEY} iwechat/robot
+```
 
-    ```
-    > 请将图灵机器人API_KEY传入docker
-- 扫码登录
-<img src="https://github.com/geekeren/iWechat/blob/master/docs/images/iwechat_login.png" width=400 />
+> 请将图灵机器人API_KEY传入docker
+
+### 扫码登录
+![在控制台中扫码登录](https://github.com/geekeren/iWechat/blob/master/docs/images/iwechat_login.png)
 
 ## 怎样自定义机器人处理代码？
 
